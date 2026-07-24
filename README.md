@@ -26,4 +26,4 @@ Daily notes on formal verification work
 Lean proofs contributed upstream
 
 [Contributions →](https://github.com/etheorem/etheorem/pulls/Mouzayan)<br>
-[etheorem repository →](https://github.com/etheorem)
+[etheorem repository →](https://github.com/etheorem/etheorem)
