@@ -7,7 +7,7 @@ Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, 
 ## 01 / Proof in Progress
 
 Active proof<br>
-`is_valid_indexed_payload_attestation`
+`isValidIndexedPayloadAttestation`
 
 [Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-07-24-valid-indexed-payload-attestation.md)
 
