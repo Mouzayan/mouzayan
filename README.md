@@ -15,7 +15,7 @@ Active proof<br>
 
 ## 02 / Proof Journal
 
-Daily notes on formal verification work
+Notes on formal verification work
 
 [Proof journal →](https://github.com/Mouzayan/proof-journal)
 
