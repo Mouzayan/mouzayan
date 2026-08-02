@@ -7,9 +7,9 @@ Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, 
 ## 01 / Proof in Progress
 
 Active proof<br>
-`isValidIndexedPayloadAttestation`
+`initiateBuilderExit`
 
-[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-07-24-valid-indexed-payload-attestation.md)
+[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/posts/2026-07-28-initiate-builder-exit.md)
 
 ---
 
