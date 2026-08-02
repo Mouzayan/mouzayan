@@ -9,7 +9,7 @@ Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, 
 Active proof<br>
 `initiateBuilderExit`
 
-[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/posts/2026-07-28-initiate-builder-exit.md)
+[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-07-28-initiate-builder-exit.md)
 
 ---
 
