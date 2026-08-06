@@ -9,7 +9,7 @@ Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, 
 Active proof<br>
 `processOperations`
 
-[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-08-25-process-operations.md)
+[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-08-05-process-operations.md)
 
 ---
 
