@@ -1,6 +1,6 @@
 # Ethereum Formal Verification
 
-Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, with a focus on the Gloas fork.
+Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, focused on Gloas, Heze, and cross-fork fork-choice verification.
 
 ---
 
