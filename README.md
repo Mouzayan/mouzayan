@@ -4,12 +4,12 @@ Contributing Lean 4 proofs to Ethereum's consensus specification in *etheorem*, 
 
 ---
 
-## 01 / Proof in Progress
+## 01 / Current Work
 
-Active proof<br>
-`processOperations`
+In progress<br>
+Heze ePBS–FOCIL compositional proofs
 
-[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-08-05-process-operations.md)
+[Proof note →](https://github.com/Mouzayan/proof-journal/blob/main/posts/2026-10-15-heze-epbs-focil-composition.md)
 
 ---
 
